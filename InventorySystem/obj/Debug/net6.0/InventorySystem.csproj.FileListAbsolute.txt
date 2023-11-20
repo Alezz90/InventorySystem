@@ -1,0 +1,14 @@
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\bin\Debug\net6.0\InventorySystem.exe
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\bin\Debug\net6.0\InventorySystem.deps.json
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\bin\Debug\net6.0\InventorySystem.runtimeconfig.json
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\bin\Debug\net6.0\InventorySystem.dll
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\bin\Debug\net6.0\InventorySystem.pdb
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.AssemblyInfo.cs
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.dll
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\refint\InventorySystem.dll
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.pdb
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\InventorySystem.genruntimeconfig.cache
+C:\Users\dell\Source\Repos\Alezz90\InventorySystem\InventorySystem\obj\Debug\net6.0\ref\InventorySystem.dll
